@@ -3,9 +3,7 @@ This repository contains the notes about how to download ans install arduino IDE
 
 1. Download the Arduino IDE AppImage
 Go to the [official arduino website](https://www.arduino.cc/en/software) to download Arduino IDE. I chose **Arduino IDE 2.2.1**, just download the AppImage by clicking on "Linux AppImage 64 bits (X86-64)". 
-
-![alt text]([http://url/to/img.png](https://github.com/robotamateur123/arduino_installation_under_linux/blob/main/download_arduino_ide.png))
-
+![Alt text](download_arduino_ide.png?raw=true "Download Arduino IDE")
 
 2. Make the AppImage executable
 By default, the AppImage is not executable, to make it executable you need to run:
